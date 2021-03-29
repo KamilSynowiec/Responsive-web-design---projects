@@ -1,0 +1,17 @@
+.img-div{
+    width: 100px;
+  }
+.image{
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: #2E151B
+}
+body{
+    background-color: #FFCB9A;
+  
+}
