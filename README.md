@@ -1,3 +1,8 @@
 # Responsive-web-design-projects
 
-These are my projects created for a freeCodeCamp Responsive Web Design course.
+These are my projects created for a freeCodeCamp Responsive Web Design course: 
+1. Triubute page 
+2. Survey Form
+3. Product Landing Page
+4. Technical Documentation Page
+5. Personal Portfolio
